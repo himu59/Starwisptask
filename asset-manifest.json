@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Starwisptask/static/css/main.cb174c62.chunk.css",
+    "main.js": "/Starwisptask/static/js/main.93900c67.chunk.js",
+    "main.js.map": "/Starwisptask/static/js/main.93900c67.chunk.js.map",
+    "runtime-main.js": "/Starwisptask/static/js/runtime-main.ebe7be7e.js",
+    "runtime-main.js.map": "/Starwisptask/static/js/runtime-main.ebe7be7e.js.map",
+    "static/js/2.784e0ab0.chunk.js": "/Starwisptask/static/js/2.784e0ab0.chunk.js",
+    "static/js/2.784e0ab0.chunk.js.map": "/Starwisptask/static/js/2.784e0ab0.chunk.js.map",
+    "index.html": "/Starwisptask/index.html",
+    "precache-manifest.b07bafece92911a74cbe73b8420bf597.js": "/Starwisptask/precache-manifest.b07bafece92911a74cbe73b8420bf597.js",
+    "service-worker.js": "/Starwisptask/service-worker.js",
+    "static/css/main.cb174c62.chunk.css.map": "/Starwisptask/static/css/main.cb174c62.chunk.css.map",
+    "static/js/2.784e0ab0.chunk.js.LICENSE.txt": "/Starwisptask/static/js/2.784e0ab0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe7be7e.js",
+    "static/js/2.784e0ab0.chunk.js",
+    "static/css/main.cb174c62.chunk.css",
+    "static/js/main.93900c67.chunk.js"
+  ]
+}
