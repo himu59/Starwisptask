@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d2d2a2a668ac7b067b76bc9722d8d08",
+    "revision": "3dbb6fc7142ed45609f9b0031b679f8e",
     "url": "/Starwisptask/index.html"
   },
   {
-    "revision": "a21d0d07e086b33d788a",
+    "revision": "1591128e3f7d9bbb53f4",
     "url": "/Starwisptask/static/css/main.cb174c62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Starwisptask/static/js/2.784e0ab0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a21d0d07e086b33d788a",
-    "url": "/Starwisptask/static/js/main.93900c67.chunk.js"
+    "revision": "1591128e3f7d9bbb53f4",
+    "url": "/Starwisptask/static/js/main.cfa3a59f.chunk.js"
   },
   {
     "revision": "a03f4f0d40b3877ecdbd",
