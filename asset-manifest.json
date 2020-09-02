@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Starwisptask/static/css/main.cb174c62.chunk.css",
-    "main.js": "/Starwisptask/static/js/main.cfa3a59f.chunk.js",
-    "main.js.map": "/Starwisptask/static/js/main.cfa3a59f.chunk.js.map",
+    "main.css": "/Starwisptask/static/css/main.0cd8c442.chunk.css",
+    "main.js": "/Starwisptask/static/js/main.53792f56.chunk.js",
+    "main.js.map": "/Starwisptask/static/js/main.53792f56.chunk.js.map",
     "runtime-main.js": "/Starwisptask/static/js/runtime-main.ebe7be7e.js",
     "runtime-main.js.map": "/Starwisptask/static/js/runtime-main.ebe7be7e.js.map",
-    "static/js/2.784e0ab0.chunk.js": "/Starwisptask/static/js/2.784e0ab0.chunk.js",
-    "static/js/2.784e0ab0.chunk.js.map": "/Starwisptask/static/js/2.784e0ab0.chunk.js.map",
+    "static/js/2.f4e74946.chunk.js": "/Starwisptask/static/js/2.f4e74946.chunk.js",
+    "static/js/2.f4e74946.chunk.js.map": "/Starwisptask/static/js/2.f4e74946.chunk.js.map",
     "index.html": "/Starwisptask/index.html",
-    "precache-manifest.43ceab3addf1af0b4784d22c8b153277.js": "/Starwisptask/precache-manifest.43ceab3addf1af0b4784d22c8b153277.js",
+    "precache-manifest.a01e58856e4a1eb55dc7f3e5adfa0e4b.js": "/Starwisptask/precache-manifest.a01e58856e4a1eb55dc7f3e5adfa0e4b.js",
     "service-worker.js": "/Starwisptask/service-worker.js",
-    "static/css/main.cb174c62.chunk.css.map": "/Starwisptask/static/css/main.cb174c62.chunk.css.map",
-    "static/js/2.784e0ab0.chunk.js.LICENSE.txt": "/Starwisptask/static/js/2.784e0ab0.chunk.js.LICENSE.txt"
+    "static/css/main.0cd8c442.chunk.css.map": "/Starwisptask/static/css/main.0cd8c442.chunk.css.map",
+    "static/js/2.f4e74946.chunk.js.LICENSE.txt": "/Starwisptask/static/js/2.f4e74946.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebe7be7e.js",
-    "static/js/2.784e0ab0.chunk.js",
-    "static/css/main.cb174c62.chunk.css",
-    "static/js/main.cfa3a59f.chunk.js"
+    "static/js/2.f4e74946.chunk.js",
+    "static/css/main.0cd8c442.chunk.css",
+    "static/js/main.53792f56.chunk.js"
   ]
 }

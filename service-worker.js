@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Starwisptask/precache-manifest.43ceab3addf1af0b4784d22c8b153277.js"
+  "/Starwisptask/precache-manifest.a01e58856e4a1eb55dc7f3e5adfa0e4b.js"
 );
 
 self.addEventListener('message', (event) => {
