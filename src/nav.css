@@ -1,0 +1,69 @@
+.logo {
+    background-color: rgb(143, 238, 233);
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.navbar {
+    text-decoration: none;
+    height: 60px;
+    overflow: hidden;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(143, 238, 233);
+    width: 100vw;
+    max-width: 100%;
+}
+.icons-1 {
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0px;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.assignIcon {
+    margin-right: 20px;
+    color:black;
+}
+.addIcon {
+    margin-right: 20px;
+    color:black;
+}
+.accountIcon {
+    margin-right: 0px;
+    color:black;
+}
+.notificationIcon {
+    margin-right: 20px;
+    color:black;
+}
+.assignIcon:hover {
+   
+    color:white;
+}
+.addIcon :hover {
+    
+    color:white;
+}
+.accountIcon :hover {
+    
+    color:white;
+}
+.notificationIcon :hover {
+   
+    color:white;
+}
+.icons>div {
+    margin-right: 10px;
+}

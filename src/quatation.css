@@ -1,0 +1,48 @@
+.row {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 400px;
+}
+.cell {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    min-width: 100px;
+    width: 200px;
+    height: 48px;
+    color: rgb(214, 121, 191);
+    border: 2px solid rgb(180, 177, 177);
+    
+}
+.main-quatation {
+    display: flex;
+    flex-direction: row;
+}
+.quatation {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+.items {
+    display: flex;
+    width: 85vw;
+    text-align: center;
+}
+.items > div {
+    width: 100%;
+}
+.quat {
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgb(85, 3, 133);
+}
+@media only screen and (max-width: 1400px) ,(min-width:px) { 
+    .boxes {
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

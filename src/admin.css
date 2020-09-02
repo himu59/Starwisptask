@@ -1,0 +1,49 @@
+.main-admin {
+    display: flex;
+}
+.admin {
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.heading {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(150, 150, 236) ;
+}
+.detail {
+    min-width: 300px;
+   margin-top: 10px;
+   display: flex;
+}
+.detail-1 {
+    min-width: 250px;
+    border-radius: 40px;
+    margin-right: 20px;
+    padding: 15px;
+    width: 25vw;
+    height: 60vh;
+    background-color: rgb(242, 247, 237);
+    border: 2px solid rgb(206, 204, 204);
+}
+.detail-2 {
+    min-width: 250px;   
+    border-radius: 40px;
+    padding: 15px;
+    width: 25vw;
+    background-color: rgb(242, 247, 237);
+    border: 2px solid rgb(206, 204, 204);
+}
+.detail-1>h4,.detail-2>h4{
+    margin-bottom: 25px;
+    color: rgb(22, 141, 150);
+    font-size: 18px;
+}
+.combo {
+    display: flex;
+    font-size: 18px;
+}
+.btn{
+    text-align: center;
+}

@@ -1,0 +1,99 @@
+.maindiv {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.mainBox {
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto;
+    display: grid;
+    grid-gap: 10px;
+    width: 85%;
+    min-width: 50%;
+    height: 80vh;
+    text-align: center;
+    
+}
+.inner1 {
+    color: darkblue;
+    text-decoration: none;
+    grid-column: 1 / span 1;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner2 {
+    color: darkblue;
+    text-decoration: none;
+    grid-column: 2 / span 1;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner3 {
+    text-decoration: none;
+    grid-column: 3 / span 1;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner4 {
+    text-decoration: none;
+    grid-column: 1 / span 3;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner5 {
+    text-decoration: none;
+    grid-column: 1 / span 1;
+    grid-row: 3/span 3;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner6 {
+    text-decoration: none;
+    grid-column: 2 / span 1;
+    grid-row: 3/span 3;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.inner7 {
+    text-decoration: none;
+    grid-column: 3 / span 1;
+    grid-row: 3 / span 3;
+    border-radius: 8px;
+    background-color: rgb(247, 161, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 20px 0;
+}

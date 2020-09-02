@@ -1,0 +1,16 @@
+.sidebar > div {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background-color: rgba(251, 252, 225, 0.863);
+    font-weight: bold;
+}
+.sidebar {
+    min-width: 90px;
+    padding: 20px;
+    height: 90vh;
+    background-color: rgb(252, 253, 238);
+}
